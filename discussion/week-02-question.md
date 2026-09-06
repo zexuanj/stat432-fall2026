@@ -1,0 +1,1 @@
+I understand that adding predictors can reduce training error, but I am still confused about why we stop assuming \(\mu=X\beta\) when discussing model selection. How does allowing \(\mu\neq X\beta\) create approximation bias, and why does adding predictors reduce this bias but increase estimation variance in the expected test MSE?
