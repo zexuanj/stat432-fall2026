@@ -1,0 +1,1 @@
+When two predictors are highly correlated, I understand that OLS may estimate their combined effect fairly well while the individual coefficients are unstable. Why does this happen geometrically, and how does the ridge penalty specifically stabilize the weak direction associated with multicollinearity?
