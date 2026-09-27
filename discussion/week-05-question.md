@@ -1,0 +1,1 @@
+In KNN regression, consider two types of outliers: an observation with unusual predictor values and an observation whose predictors are typical but whose response is extreme. How would each type affect neighbor selection and prediction? Would increasing \(k\), standardizing the predictors, or using a robust aggregation method such as the median reduce their influence?
