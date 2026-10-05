@@ -1,0 +1,1 @@
+Can two models have exactly the same ROC curve and AUC but substantially different Brier scores or log losses? Construct a simple example and explain what this reveals about using AUC to evaluate predicted probabilities.
