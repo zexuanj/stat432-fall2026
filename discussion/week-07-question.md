@@ -1,0 +1,1 @@
+The SAheart example includes famhist, a binary predictor that cannot follow a normal distribution. Does this violation necessarily make LDA and QDA poor classifiers?
