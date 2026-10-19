@@ -1,0 +1,1 @@
+If the training data are linearly separable, could a soft-margin SVM still generalize better than a hard-margin SVM? Under what circumstances?
