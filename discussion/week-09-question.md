@@ -1,0 +1,1 @@
+In an RBF SVM, both C and gamma affect the flexibility of the decision boundary. If a large gamma leads to overfitting, can decreasing C compensate for it? Why might we need to tune these two parameters jointly rather than separately?
