@@ -1,0 +1,1 @@
+How can we balance these two effects when selecting mtry? In particular, if a dataset contains many irrelevant predictors, could reducing mtry actually hurt predictive performance despite making the trees more diverse?
